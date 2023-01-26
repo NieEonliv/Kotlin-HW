@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="culculate">Расcчитать</string>
+    <string name="factorial">Ваш факториал равен:</string>
+    <string name="app_name">app</string>
+</resources>
